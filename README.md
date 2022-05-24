@@ -1,1 +1,2 @@
-My first readme
+#My first readme
+This repository is dedicated for alx-projects
